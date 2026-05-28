@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi, I'm Joshin Sam
 
-<!--
-**joshinsam7/joshinsam7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-stack software engineer building production-ready web and mobile applications — from backend architecture to deployed systems.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I build
+
+I work across the full stack, including backend APIs, frontend applications, mobile development, and cloud deployment. Most of my projects involve building scalable systems end-to-end, from architecture and database design to deployment and production workflows.
+
+Currently focused on:
+- full-stack web platforms
+- React Native mobile applications
+- cloud-hosted business systems
+- scalable backend development
+
+---
+
+### Tech Stack
+
+`React / React Native` `ASP.NET Core / .NET`
+`Node.js` `PostgreSQL`
+`Azure` `AWS`
+`Docker` `CI/CD`
+`REST APIs` `Unreal Engine / AR`
+
+---
+
+### Featured Projects
+
+- **HireBest Talents** — Recruitment-focused platform involving CMS integration, backend workflows, and scalable deployment.
+- **Cypress Estates** — Cloud-based business platform developed using modern full-stack technologies.
+- **Bus Tracker** — Real-time transit tracking application with live location synchronization.
+- **AR/XR Capstone** — Augmented reality experience built using Unreal Engine and GPS-based overlays.
+
+---
+
+### Currently
+
+Open to software engineering opportunities and freelance projects involving full-stack, mobile, and cloud application development.
+
+[LinkedIn](https://linkedin.com/in/joshinsam)
