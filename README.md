@@ -18,18 +18,14 @@ Currently focused on:
 
 ### Tech Stack
 
-`React / React Native` `ASP.NET Core / .NET`
-`Node.js` `PostgreSQL`
-`Azure` `AWS`
-`Docker` `CI/CD`
-`REST APIs` `Unreal Engine / AR`
+`React / React Native` `ASP.NET Core / .NET` `Node.js` `PostgreSQL` `Azure` `AWS` `Docker` `CI/CD` `REST APIs` `Unreal Engine / AR`
 
 ---
 
 ### Featured Projects
 
-- **HireBest Talents** — Recruitment-focused platform involving CMS integration, backend workflows, and scalable deployment.
-- **Cypress Estates** — Cloud-based business platform developed using modern full-stack technologies.
+- **[HireBest Talents](https://hirebesttalents.com/)** — Recruitment-focused platform involving CMS integration, backend workflows, and scalable deployment.
+- **[Cypress Estates](https://cypressestatesrental.com/)** — Cloud-based business platform developed using modern full-stack technologies.
 - **Bus Tracker** — Real-time transit tracking application with live location synchronization.
 - **AR/XR Capstone** — Augmented reality experience built using Unreal Engine and GPS-based overlays.
 
